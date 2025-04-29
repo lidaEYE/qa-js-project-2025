@@ -1,7 +1,7 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
 
-test('has title', async ({ page }) => {
+test('Change Language', async ({ page }) => {
   await page.goto('https://qa-metro.stand-2.praktikum-services.ru/moscow');
 
   await page.locator('.lang-switcher__selected-item').click(); 
