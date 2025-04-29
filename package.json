@@ -1,0 +1,22 @@
+{
+  "name": "qa-js-project-2025",
+  "version": "1.0.0",
+  "description": "Пет-проект тестирования API и UI",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidaEYE/qa-js-project-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lidaEYE/qa-js-project-2025/issues"
+  },
+  "homepage": "https://github.com/lidaEYE/qa-js-project-2025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  }
+}
